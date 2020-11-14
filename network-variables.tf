@@ -7,11 +7,6 @@ variable "kopi-vnet-cidr" {
   description = "The CIDR of the VNET"
 }
 
-variable "kopi-web-subnet-cidr" {
-  type        = string
-  description = "The CIDR for the Web subnet"
-}
-
 variable "kopi-db-subnet-cidr" {
   type        = string
   description = "The CIDR for the Backoffice subnet"
