@@ -19,7 +19,6 @@ azure-tenant-id       = "complete-this"
 # Network #
 ###########
 kopi-vnet-cidr       = "10.50.0.0/16"
-kopi-web-subnet-cidr = "10.50.1.0/24"
 kopi-db-subnet-cidr  = "10.50.2.0/24"
 kopi-private-dns     = "kopicloud.lan"
 kopi-dns-privatelink = "kopidb"
