@@ -10,3 +10,4 @@ This Terraform code will deploy the following resource
 
 * SQL Server instance and SQL Server database
 
+Blog Post --> https://gmusumeci.medium.com/how-to-deploy-an-azure-sql-server-instance-with-a-private-endpoint-using-terraform-815a19b7f0ec
